@@ -1,0 +1,2 @@
+Model,PCA,Accuracy,Average Accuracy,Precision,Sensitivity/Recall,F1 Score
+AdaBoost,Without PCA,0.965,0.965,0.9571428571428572,0.6320754716981132,0.7613636363636364

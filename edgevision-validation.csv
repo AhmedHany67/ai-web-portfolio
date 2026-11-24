@@ -1,0 +1,2 @@
+images,instances,precision,recall,map50,map50_95
+2846,114132,0.395,0.329,0.269,0.13
